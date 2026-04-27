@@ -3,7 +3,8 @@
 1. **Pull the Latest Code**
 
    ```bash
-   git pull https://github.com/Shivam2001-programmer/frontend-assignments.git
+git clone https://github.com/Shivam2001-programmer/frontend-assignments.git
+
    ```
 
 2. **Install Dependencies**
