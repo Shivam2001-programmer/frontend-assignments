@@ -1,6 +1,6 @@
 ## 🚀 How to Run the Project
 
-1. **Pull the Latest Code**
+1. **Clone the Repo**
 
    ```bash
 git clone https://github.com/Shivam2001-programmer/frontend-assignments.git
