@@ -3,7 +3,7 @@
 1. **Pull the Latest Code**
 
    ```bash
-   git pull branch name
+   git pull https://github.com/Shivam2001-programmer/frontend-assignments.git
    ```
 
 2. **Install Dependencies**
